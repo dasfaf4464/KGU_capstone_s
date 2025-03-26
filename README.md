@@ -18,8 +18,8 @@
 <ul>
   <li><b>조해천</b> <a href="https://www.github.com/dasfaf4464"><img src="https://simpleicons.org/icons/github.svg" witdh="20" height="20"></a> (dasfaf4464) &nbsp&nbsp|| 웹서버, API서버를 제작했습니다.</li>
   <li><b>문준서</b> <a href="https://www.github.com/odpd09091"><img src="https://simpleicons.org/icons/github.svg" witdh="20" height="20"></a> (odpd09091) &nbsp&nbsp|| API서버를 제작했습니다.</li>
-  <li>이상훈 <a href="https://www.github.com/KGU-LSH"><img src="https://simpleicons.org/icons/github.svg" witdh="20" height="20"></a> (KGU-LSH) &nbsp&nbsp|| 3D 오브젝트 및 게임 시스템을 제작했습니다.</li>
-  <li>이지연 <a href="https://www.github.com/leejiyeoniya"><img src="https://simpleicons.org/icons/github.svg" witdh="20" height="20"></a> (leeeeejy) &nbsp&nbsp|| 웹페이지, DB를 제작했습니다.</li>
+  <li><b>이상훈</b> <a href="https://www.github.com/KGU-LSH"><img src="https://simpleicons.org/icons/github.svg" witdh="20" height="20"></a> (KGU-LSH) &nbsp&nbsp|| 3D 오브젝트 및 게임 시스템을 제작했습니다.</li>
+  <li><b>이지연</b> <a href="https://www.github.com/leejiyeoniya"><img src="https://simpleicons.org/icons/github.svg" witdh="20" height="20"></a> (leeeeejy) &nbsp&nbsp|| 웹페이지, DB를 제작했습니다.</li>
 </ul>
 <h3><b>HOW ⚙</b></h3>
 <ul>
