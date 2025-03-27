@@ -113,6 +113,8 @@ for() {//...
 <hr>
 
 <h2>팀원 공간</h2>
+<h3>공부 자료🖊️</h3>
+<p>https://cerulean-transport-2a9.notion.site/AI-1ad265623d0780fab864febae640a97a?pvs=74</p>
 <h3>할 일 ✅</h3>
 <p>설계도 및 유즈케이스 시나리오 작성</p>
 <p>논문 초록 작성 & 논문 작성</p>
